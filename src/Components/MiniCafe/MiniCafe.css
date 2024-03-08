@@ -1,0 +1,34 @@
+#foods {
+  font-size: 21px;
+  margin-top: 3%;
+  text-align: left;
+}
+
+#food-amount {
+  margin-left: 10px;
+}
+#minicafe-title {
+  text-align: left;
+  color: rgb(84, 84, 239);
+}
+
+#food-checkbox {
+  margin-right: 10px;
+}
+
+#food-totalprice-title {
+  margin-top: 2%;
+  font-weight: 680;
+  text-align: left;
+}
+
+#ftp-1 {
+  border: 1.8px solid rgb(210, 197, 179);
+  box-shadow: 3px 5px 5px rgb(149, 143, 143);
+  border-radius: 3%;
+  margin-top: 3%;
+}
+#food-form {
+  text-align: left;
+  font-weight: 600;
+}

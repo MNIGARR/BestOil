@@ -1,0 +1,62 @@
+.FuelPart{
+    margin-top: 2%;
+    width: 50%;
+}
+
+#fuel-options{
+    margin-left: 5%;
+    display: flex;
+    margin-top: 3%;
+
+}
+
+.fuel-selection{
+    margin-left: 3%;
+    width: 120px;
+    color: rgb(29, 28, 28);
+    background-color: whitesmoke;
+    height: 42px;
+    border-radius: 7%;
+    font-weight: 570;
+}
+
+#oap{
+    display: flex;
+    margin-right: 5%;  
+    margin-top: 4%; 
+}
+#oil-amount{
+    margin-left: 5%;
+     font-weight: 570;
+    margin-right: 10px;
+}
+#amount-input{
+    height: 40px;
+    width: 120px;
+}
+
+#fuel-price{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#total-fuel-price{
+    border:1.8px solid rgb(210, 197, 179);
+    box-shadow: 3px 5px 5px rgb(149, 143, 143);
+    border-radius: 3%;
+    width: 70%;
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+ }
+
+ #tpi{
+    margin-left: 2%;
+    margin-top: 3%;
+    text-align: left;
+    font-weight: 550;
+
+ }
+
